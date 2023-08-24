@@ -1,4 +1,4 @@
-package com.example.jdbc;
+package com.example.jdbc.connection;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

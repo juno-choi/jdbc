@@ -1,4 +1,4 @@
-package com.example.jdbc;
+package com.example.jdbc.connection;
 
 public class ConnectionConst {
     public static final String URL = "jdbc:h2:tcp://localhost/~/jdbc";

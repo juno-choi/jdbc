@@ -1,5 +1,6 @@
-package com.example.jdbc;
+package com.example.jdbc.connection;
 
+import com.example.jdbc.connection.DBConnectionUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

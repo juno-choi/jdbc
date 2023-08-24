@@ -1,4 +1,4 @@
-package com.example.jdbc;
+package com.example.jdbc.connection;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
